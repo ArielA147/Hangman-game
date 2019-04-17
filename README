@@ -1,18 +1,21 @@
 Hangman game
 
 ##############################################################
-#discription of the ex'
-the ex is planning and executing the game of hangman. In order to start game - run hangman.py file
+#discription : A simple hangman game written in python.
 ##############################################################
 
 ##############################################################
 #configuration set-up:
-Install python packages : pil , pillow, image.optional : config the word bank by updating the words.txt file
+ 1. Env. requirements: python3,  pythron packages : pil , pillow, image.
+ 2. Word bank config (optional) : update words.txt 
+ 3. Run hangman.py 
 ##############################################################
 
 ##############################################################
 #about the game
 Guess letters one at a time to solve the word puzzle.
+
+![](https://user-images.githubusercontent.com/43312651/56271354-01870c00-6101-11e9-9616-63904054b503.PNG)
 
 <img width="697" alt="start screen game" src="https://user-images.githubusercontent.com/43312651/56271354-01870c00-6101-11e9-9616-63904054b503.PNG">
 

@@ -1,2 +1,0 @@
-# hangman-game
-Hangman game

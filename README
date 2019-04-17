@@ -1,0 +1,20 @@
+##############################################################
+#discription of the ex'
+the ex is planning and executing the game of hangman.
+in order to run the game - run the file of hangman-2.0.py
+##############################################################
+
+##############################################################
+#about the game
+Guess letters one at a time to solve the word puzzle.
+Type with your keyboard a letter to guess it.
+Each time you guss wrong a letter our gut will be in trouble.
+you can ask for a hit if you don't have any clue for the next possible letter in the word.
+##############################################################
+
+##############################################################
+#configuration set-up:
+in order to run the game , install the package of : pil , pillow, image
+in order to add/change the words bank - you can config the words.txt file
+##############################################################
+

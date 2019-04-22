@@ -9,7 +9,7 @@
  2. Word bank config (optional) : update words.txt 
  3. Run hangman.py 
 
-### About the game
+## About the game
  Guess letters one at a time to solve the word puzzle.
  
 <img width="400" alt="start screen game" src="https://user-images.githubusercontent.com/43312651/56271354-01870c00-6101-11e9-9616-63904054b503.PNG">

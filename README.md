@@ -20,8 +20,8 @@ Type with your keyboard a letter to guess it. Each time you guss wrong a letter 
 
 You can ask for a hit if you don't have any clue for the next possible letter in the word.
 
-<img width="370" src = "https://user-images.githubusercontent.com/43312651/56271565-7a866380-6101-11e9-8dc1-8f3c5997f3d7.PNG">
+<img width="390" src = "https://user-images.githubusercontent.com/43312651/56271565-7a866380-6101-11e9-8dc1-8f3c5997f3d7.PNG">
 
 if the player guessed wrong all the words - the game will how you the correct word and will give the player the option to choose if to play new game or to end the game .
 
-<img width="370" alt="end game screen" src="https://user-images.githubusercontent.com/43312651/56271724-d4872900-6101-11e9-9752-246818bc33b4.PNG">
+<img width="390" alt="end game screen" src="https://user-images.githubusercontent.com/43312651/56271724-d4872900-6101-11e9-9752-246818bc33b4.PNG">

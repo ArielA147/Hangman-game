@@ -5,9 +5,21 @@
 
 ## Prerequisites
 ### Configuration set-up:
- 1. Env. requirements: python3,  pythron packages : pil , pillow, image.
- 2. Word bank config (optional) : update words.txt 
- 3. Run hangman.py 
+#### Env.requirements
+1. Python 3 
+2. python packges  :
+2.1 : PIL packge
+```
+$ pip install PIL 
+```
+2.2 Pillow package
+```
+$ pip install Pillow
+```
+3. Run hangman.py
+
+* Optional :  
+  Word bank config : update words.txt 
 
 ## About the game
  Guess letters one at a time to solve the word puzzle.
